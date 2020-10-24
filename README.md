@@ -2,7 +2,7 @@
 
 ## About
 
-<p>This application is a simple client-server tchat implementation running in Ubuntu.</p>
+<p>This app is a simple client-server chat implementation running in Ubuntu.</p>
 
 ## How to use & tests
 
@@ -16,7 +16,7 @@ And then compile and run client:
 
 ```$ gcc main_client.c -o client```
 
-So you can start several clients in differents consoles to tchat between them:
+So you can start multiple clients in different consoles to chat with each other:
 
 ```$ ./client localhost 1977```
 
