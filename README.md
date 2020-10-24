@@ -2,7 +2,7 @@
 
 ## About
 
-<p>This application is a simple server-client tchat implementation running in Ubuntu.</p>
+<p>This application is a simple client-server tchat implementation running in Ubuntu.</p>
 
 ## How to use & tests
 
