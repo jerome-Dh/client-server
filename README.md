@@ -1,4 +1,4 @@
-# Simple Server - Client application
+# Simple Client-server application tchat
 
 ## About
 
